@@ -1,0 +1,25 @@
+# Java/Maven specific
+
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# External libraries
+/lib/
+
+# Maven target directory
+/target/
+
+# Build directories
+/build/
+
+# IntelliJ IDEA project files
+/.idea/
+
+# Visual Studio Code project files
+/.vscode/
+
+# Output directory for PDFs
+/pdfs/output/
